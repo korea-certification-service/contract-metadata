@@ -40,7 +40,7 @@
     "erc20": true,
     "symbol": "$PEPEINU",
     "decimals": 18
-  }, 
+  },
   "0xCEBA2a8F6Ec221AEB5f3a7bcd15Cbc7e6a387bfb": {
   "name": "Peter Pan",
   "logo": "PeterPan.svg",
@@ -4505,6 +4505,13 @@
     "logo": "pkf.svg",
     "erc20": true,
     "symbol": "PKF",
+    "decimals": 18
+  },
+  "0xF7B84c830b9fC2f68B6EfB28730a0A4C6637C478": {
+    "name": "Doorian Solid Point",
+    "logo": "dsp.png",
+    "erc20": true,
+    "symbol": "DSP",
     "decimals": 18
   }
 }
